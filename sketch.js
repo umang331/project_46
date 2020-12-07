@@ -8,7 +8,6 @@ function preload(){
   deadManimg = loadImage("../images/NPC.png");
   backGround = loadImage("../images/background.png");
   obs1 = loadImage("../images/obstacle 1.png");
-  obs2 = loadImage("../images/obstacle 2.png");
   obs3 = loadImage("../images/obstacle 3.png");
   obs4 = loadImage("../images/obstacle 4.png");
   obs4_1 = loadImage("../images/obstacle 4 1.png");
