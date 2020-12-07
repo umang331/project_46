@@ -3,16 +3,16 @@ var back,player,obstacle1,obstacle2,obstacle3,obstacle4,obstacle5,obstacle6,obst
 var obs4,obs4_1,obs4_2,obs4_3,edge1,edge2,edge3,edge4;
 
 function preload(){
-  pc = loadImage("../images/gun man 2.png");
-  npc = loadImage("../images/gun man 1.png");
+  pc = loadImage("../images/gunman2.png");
+  npc = loadImage("../images/gunman1.png");
   deadManimg = loadImage("../images/NPC.png");
   backGround = loadImage("../images/background.png");
-  obs1 = loadImage("../images/obstacle 1.png");
-  obs3 = loadImage("../images/obstacle 3.png");
-  obs4 = loadImage("../images/obstacle 4.png");
-  obs4_1 = loadImage("../images/obstacle 4 1.png");
-  obs4_2 = loadImage("../images/obstacle 4 2.png");
-  obs4_3 = loadImage("../images/obstacle 4 3.png");
+  obs1 = loadImage("../images/obstacle1.png");
+  obs3 = loadImage("../images/obstacle3.png");
+  obs4 = loadImage("../images/obstacle4.png");
+  obs4_1 = loadImage("../images/obstacle41.png");
+  obs4_2 = loadImage("../images/obstacle42.png");
+  obs4_3 = loadImage("../images/obstacle43.png");
   
 }
 
